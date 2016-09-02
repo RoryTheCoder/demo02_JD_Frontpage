@@ -1,0 +1,24 @@
+body, ul, ol, li, p{
+	font-size:12px;	
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, dl, dt, dd{
+	margin:0px;
+	padding:0px;
+}
+
+span, a, img{
+	font-size: 12px;
+	margin: 0;
+	padding:0;	
+}
+
+.clear{
+	width: 0;
+	height: 0;
+	clear: both;
+	overflow: hidden;	
+}
